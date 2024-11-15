@@ -5,10 +5,10 @@
 - **Andrés Francisco Borda Rincón**
 
 ## Descripción del Proyecto
-Este proyecto se desarrolla en el contexto de un supermercado inteligente, donde se busca implementar un sistema de automatización que permita a los clientes tomar productos y salir sin necesidad de pasar por caja, mientras que cámaras y sensores registran automáticamente los artículos seleccionados. Se utilizarán modelos de Machine Learning y técnicas de preparación de datos para identificar productos y generar valor al supermercado a partir de los datos recogidos.
+Este proyecto se desarrolla en el contexto de un supermercado inteligente, donde se busca implementar un sistema de automatización que permita a los clientes tomar productos y salir sin necesidad de pasar por caja, mientras que cámaras y sensores registran automáticamente los artículos seleccionados. Se utilizarán modelos de Machine Learning y técnicas de preparación de datos para identificar productos y generar valor al supermercado a partir de la utilización de modelos.
 
 ## Contexto del Negocio
-El concepto de supermercado inteligente está revolucionando la forma en que interactuamos con el retail, integrando inteligencia artificial, automatización y ciencia de datos para ofrecer una experiencia de compra más eficiente y personalizada. En este proyecto, el objetivo es aprovechar los datos generados diariamente para tomar decisiones más informadas, optimizar la gestión de inventarios y analizar el comportamiento de los clientes.
+El concepto de supermercado inteligente está revolucionando la forma en que interactuamos con el retail, integrando inteligencia artificial, automatización y ciencia de datos para ofrecer una experiencia de compra más eficiente y personalizada. En este proyecto, el objetivo es aprovechar los datos generados diariamente para tomar decisiones más informadas, optimizar la gestión de inventarios y apoyar diferentes procesos de este tipo de supermercados inteligentes.
 
 ## Requisitos de Software
 - **Git**: Para clonar el repositorio del proyecto.
