@@ -63,4 +63,4 @@ La importación de datos y librerías necesarias se realiza dentro de los notebo
 3. Los resultados generados ofrecerán recomendaciones y análisis del valor potencial de esta implementación para el supermercado inteligente.
 
 ## Contribuciones
-Este proyecto fue desarrollado por Daniel Felipe Vargas Ulloa y Andrés Francisco Borda Rincón para el curso MINE-4101.
+Este proyecto fue desarrollado por Daniel Felipe Vargas Ulloa y Andrés Francisco Borda Rincón para el curso de Ciencia de Datos Aplicada de la Maestría en Ingeniería de Información (MINE).
