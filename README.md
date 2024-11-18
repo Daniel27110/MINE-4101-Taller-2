@@ -33,13 +33,19 @@ Cada una de estas carpetas contiene tanto los notebooks con el código correspon
 
 Se debe ejecutar cada etapa en el **orden listado**, ya que las fases están interrelacionadas y dependen del progreso secuencial para asegurar resultados consistentes, con la excepción de los notebooks de las sección 4, que corresponde a los cálculos y reportes de generación de valor.
 
+## Fuentes de Datos
+
+Para este proyecto, se utilizó el dataset público disponible en [GroceryStoreDataset](https://github.com/marcusklasson/GroceryStoreDataset), que contiene imágenes de productos de supermercado con etiquetas para su identificación. 
+
+El conjunto de datos **no está incluido** directamente en el repositorio para mantener una estructura sencilla y ligera. Sin embargo, **no es necesario descargarlo manualmente**, ya que el dataset se descargará automáticamente al ejecutar el notebook correspondiente a la sección **Entendimiento y preparación de los datos**.
+
 ## Requisitos de Software
 - **Git**: Para clonar el repositorio del proyecto.
 - **Python**: Se recomienda la versión 3.12 para garantizar la compatibilidad de las librerías.
 
 ## Requisitos de Hardware
 - **Procesador**: 2 núcleos o más.
-- **Memoria RAM**: 16 GB o más.
+- **Memoria RAM**: 16 GB o más (se recomienda 32 GB para un mejor rendimiento, especialmente en la etapa de entrenamiento del modelo).
 - **Almacenamiento**: 2 GB de espacio libre en disco.
 
 En caso de no cumplir con los requisitos de hardware, se recomienda utilizar servicios en la nube como Google Colab, que ofrece recursos computacionales gratuitos para ejecutar notebooks de Jupyter. Recuerde usar el mismo ambiente de ejecución, en el orden secuencial de las secciones, para garantizar la correcta ejecución del proyecto.
