@@ -10,9 +10,39 @@ Este proyecto se desarrolla en el contexto de un supermercado inteligente, donde
 ## Contexto del Negocio
 El concepto de supermercado inteligente está revolucionando la forma en que interactuamos con el retail, integrando inteligencia artificial, automatización y ciencia de datos para ofrecer una experiencia de compra más eficiente y personalizada. En este proyecto, el objetivo es aprovechar los datos generados diariamente para tomar decisiones más informadas, optimizar la gestión de inventarios y apoyar diferentes procesos de este tipo de supermercados inteligentes.
 
+## Entregables
+
+El proyecto cuenta con una carpeta denominada **`Entregables`**, en la cual se encuentran organizadas las cinco secciones del entregable del taller. Cada sección corresponde a una etapa clave del proyecto, organizada de la siguiente manera:
+
+1. **Entendimiento y preparación de los datos**  
+   Incluye notebooks y documentos relacionados con la exploración inicial, limpieza y preparación del dataset.
+
+2. **Entrenamiento del modelo de Machine Learning**  
+   Contiene el código y los cálculos necesarios para construir y entrenar el modelo.
+
+3. **Análisis de resultados del modelo**  
+   En esta sección se presentan los notebooks y reportes que evalúan el rendimiento del modelo y sus resultados.
+
+4. **Generación de valor**  
+   Reporte y calculos de cómo los resultados del modelo pueden ser aplicados para optimizar las operaciones del supermercado inteligente.
+
+5. **Insights**  
+   Proporciona un resumen de los hallazgos clave y recomendaciones obtenidas a lo largo del proyecto.
+
+Cada una de estas carpetas contiene tanto los notebooks con el código correspondiente a cada etapa como reportes y cálculos complementarios. Esta estructura fue diseñada para facilitar la comprensión de qué entregable corresponde a cada parte del taller. 
+
+Se debe ejecutar cada etapa en el **orden listado**, ya que las fases están interrelacionadas y dependen del progreso secuencial para asegurar resultados consistentes, con la excepción de los notebooks de las sección 4, que corresponde a los cálculos y reportes de generación de valor.
+
 ## Requisitos de Software
 - **Git**: Para clonar el repositorio del proyecto.
 - **Python**: Se recomienda la versión 3.12 para garantizar la compatibilidad de las librerías.
+
+## Requisitos de Hardware
+- **Procesador**: 2 núcleos o más.
+- **Memoria RAM**: 16 GB o más.
+- **Almacenamiento**: 2 GB de espacio libre en disco.
+
+En caso de no cumplir con los requisitos de hardware, se recomienda utilizar servicios en la nube como Google Colab, que ofrece recursos computacionales gratuitos para ejecutar notebooks de Jupyter. Recuerde usar el mismo ambiente de ejecución, en el orden secuencial de las secciones, para garantizar la correcta ejecución del proyecto.
 
 ## Librerías de Python
 Todas las librerías necesarias están listadas en el archivo `requirements.txt`, que incluye:
@@ -22,6 +52,7 @@ Todas las librerías necesarias están listadas en el archivo `requirements.txt`
 - `seaborn`
 - `scikit-learn`
 - `imgaug`
+- `statsmodels`
 
 Estas librerías se pueden instalar ejecutando el siguiente comando:
 ```bash
